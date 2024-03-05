@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    float matematika, fisika, rerata;
+    float matematika, nilaiFis, rerata;
     string status;
     cout << "Nilai Matematika : " << endl;
     cin >> matematika;
